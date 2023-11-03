@@ -4,7 +4,6 @@ Lua Asynchronous Socket Api
 
 # Table of Contents
 
-
 * [lasa](#lasa)
 * [lasa.thread](#lasa.thread)
 * [lasa.sleep](#lasa.sleep)
